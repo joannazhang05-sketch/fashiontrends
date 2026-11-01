@@ -2,6 +2,8 @@
 
 Joanna Zhang
 
+Site URL: https://joannazhang05-sketch.github.io/fashiontrends/
+
 ## Run it
 Double-click `index.html` to open it, or serve the folder. The JSON files are also bundled in `data/bundle.js`, so the page works opened straight from disk.
 
