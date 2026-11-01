@@ -1,6 +1,6 @@
-# Enter the Wardrobe: Fashion Trend Cycle (CS 1710 Prototype II)
+# Enter the Wardrobe: Fashion Trend Cycle  Prototype II)
 
-Team: Joanna Zhang, Amelia Yu, Yuankang Li
+Joanna Zhang
 
 ## Run it
 Double-click `index.html` to open it, or serve the folder. The JSON files are also bundled in `data/bundle.js`, so the page works opened straight from disk.
