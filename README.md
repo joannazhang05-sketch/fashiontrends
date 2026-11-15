@@ -1,6 +1,6 @@
 # Enter the Aesthetic: Fashion Trend Cycle (CS 1710 Prototype III)
 
-Team: Joanna Zhang, Amelia Yu, Yuankang Li
+https://joannazhang05-sketch.github.io/fashiontrends/
 
 ## Run it
 Double-click `index.html` to open it, or serve the folder. The JSON files are also bundled in `data/bundle.js`, so the page works opened straight from disk.
